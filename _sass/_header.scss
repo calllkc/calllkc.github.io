@@ -1,11 +1,11 @@
 header {
-    background: #222;
-    height: 52px;
-    color: #9d9d9d;
+    background: #3399ff;
+    height: 100px;
+    color: #ffffff;
     box-shadow: 0 2px 4px 1px rgba(0,0,0,0.5);
     margin-bottom: 20px;
     a {
-        color: #9d9d9d;
+        color: #ffffff;
         -webkit-transition: 0.2s ease;
         transition: 0.2s ease;
         &:hover {
@@ -17,11 +17,11 @@ header {
         margin: 0 auto;
         line-height: 52px;
         .brand {
-            font-size: 18px;
+            font-size: 50px;
         }
         small {
             margin-left: 26px;
-            font-size: 14px;
+            font-size: 20px;
         }
         .menu{
             display: none;
@@ -34,25 +34,25 @@ header {
                 padding: 0;
                 li {
                     list-style: none;
-                    font-size: 14px;
+                    font-size: 18px;
                     display: inline-block;
                     -webkit-transition: 0.2s ease;
                     transition: 0.2s ease;
                     a {
                         display: inline-block;
                         padding: 0 10px;
-                        height: 52px;
+                        height: 102px;
                         &:hover {
-                            background-color: #000;
+                            background-color: #011935;
                         }
                         i {
-                            margin-right: 5px;
+                            margin-right: 20px;
                         }
                     }
                     >.active {
                         color: #fff;
-                        background-color: #000;
-                        box-shadow: 0 25px 25px -15px rgba(255,255,255,0.93);
+                        background-color: #00343f;
+                        box-shadow: 0 50px 50px -15px rgba(255,255,255,0.93);
                     }
                 }
             }
