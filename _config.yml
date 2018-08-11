@@ -7,9 +7,9 @@
 
 # Site settings
 title: 绿枯草
-brief-intro: Android and Python Coder
+brief-intro: 一个人要像一支队伍
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://callkc.github.io" # the base hostname & protocol for your site
+url: "https://calllkc.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -18,12 +18,12 @@ twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
 github_username:  calllkc
 email: 1782248310@QQ.com
-weibo_username: 3115521wh
+weibo_username: 
 zhihu_username: cai-wen-jie-63-30
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 来自徐代龙的个人专栏！
+description_footer: 来自绿枯草的个人专栏！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
